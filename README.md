@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on Embedded projects
 - 🤔 I’m looking for help with Web development
 - 💬 Ask me about  Embedded and electronics  related stuff
-- ⚡ Fun fact: 
--  Connect me at 
+- ⚡ Fun fact: “If I could become the one character from the anime, then i would be 'Asta' from 'Black clover' #Quit Giving up..!!"
+-  Connect me at www.linkedin.com/in/avinash-andhale-22385193
 
 
 
