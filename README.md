@@ -10,7 +10,7 @@
 
 
 
-[![Linkedin: avinash-andhale](https://img.shields.io/badge/-avinash-andhale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-andhale-22385193/)](https://www.linkedin.com/in/avinash-andhale-22385193/)
+[![Linkedin: avinash-andhale](https://img.shields.io/badge/-avinash_andhale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-andhale-22385193/)](https://www.linkedin.com/in/avinash-andhale-22385193/)
 
 
 ### Github Stats
